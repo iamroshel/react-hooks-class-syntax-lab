@@ -1,4 +1,4 @@
-# Class Syntax Lab
+# Class Syntax Lab c
 
 ## Learning Goals
 
